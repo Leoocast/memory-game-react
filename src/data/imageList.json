@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "image": "Screen1.jpg",
+    "revealed": false,
+    "paired": false
+  },
+  {
+    "id": "2",
+    "image": "Screen2.jpg",
+    "revealed": false,
+    "paired": false
+  },
+  {
+    "id": "3",
+    "image": "Screen3.png",
+    "revealed": false,
+    "paired": false
+  },
+  {
+    "id": "4",
+    "image": "Screen4.jpg",
+    "revealed": false,
+    "paired": false
+  },
+  {
+    "id": "5",
+    "image": "Screen5.jpg",
+    "revealed": false,
+    "paired": false
+  },
+  {
+    "id": "6",
+    "image": "Screen6.jpg",
+    "revealed": false,
+    "paired": false
+  },
+  {
+    "id": "7",
+    "image": "Screen7.jpg",
+    "revealed": false,
+    "paired": false
+  },
+  {
+    "id": "8",
+    "image": "Screen8.jpg",
+    "revealed": false,
+    "paired": false
+  },
+  {
+    "id": "9",
+    "image": "Screen9.png",
+    "revealed": false,
+    "paired": false
+  },
+  {
+    "id": "10",
+    "image": "Screen10.jpg",
+    "revealed": false,
+    "paired": false
+  },
+  {
+    "id": "101",
+    "image": "Screen101.png",
+    "revealed": false,
+    "paired": false
+  },
+  {
+    "id": "102",
+    "image": "Screen102.png",
+    "revealed": false,
+    "paired": false
+  },
+  {
+    "id": "103",
+    "image": "Screen103.png",
+    "revealed": false,
+    "paired": false
+  },
+  {
+    "id": "104",
+    "image": "Screen104.png",
+    "revealed": false,
+    "paired": false
+  },
+  {
+    "id": "105",
+    "image": "Screen105.png",
+    "revealed": false,
+    "paired": false
+  },
+  {
+    "id": "106",
+    "image": "Screen106.png",
+    "revealed": false,
+    "paired": false
+  },
+  {
+    "id": "107",
+    "image": "Screen107.png",
+    "revealed": false,
+    "paired": false
+  },
+  {
+    "id": "108",
+    "image": "Screen108.png",
+    "revealed": false,
+    "paired": false
+  },
+  {
+    "id": "109",
+    "image": "Screen109.png",
+    "revealed": false,
+    "paired": false
+  },
+  {
+    "id": "110",
+    "image": "Screen110.png",
+    "revealed": false,
+    "paired": false
+  }
+]
